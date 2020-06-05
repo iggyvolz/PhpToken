@@ -1,0 +1,16 @@
+{
+    "name": "iggyvolz/phptoken",
+    "description": "Polyfill for PhpToken class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Katie Volz",
+            "email": "iggyvolz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
